@@ -1,4 +1,4 @@
-## Hello! I'm Naymmm you can call me Name. I code JavaScript and HTML
+## Hello! I'm Naymmm you can call me Name. I code JavaScript and HTML ***(i also have a 50 year old turtle)***
 
 **My favourite stuff**
 **#1** Glorious Model O
