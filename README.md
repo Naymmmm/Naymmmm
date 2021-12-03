@@ -14,7 +14,7 @@
 
 
 
-**Socials**
+## **Socials**
 
 [YouTube](https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw)
 [Discord](https://discord.com/users/709236892687794216)
