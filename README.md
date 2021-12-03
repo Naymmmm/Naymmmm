@@ -19,3 +19,13 @@
 [YouTube](https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw)
 [Discord](https://discord.com/users/709236892687794216)
 [Twitch](https://www.twitch.tv/naymmmyt)
+
+
+## Why I like turtles
+
+Good question you may ask. I have a real turtle myself. It is 50 years old and is healthy and living well. I just need it to stop knocking over my plants in its tank
+
+## Why I love the RTX 3090
+
+***The RTX 3090 has 30028293902398340 fps***
+
