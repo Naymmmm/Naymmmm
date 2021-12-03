@@ -11,3 +11,11 @@
 <a href="https://discord.com/users/709236892687794216">
   <img src="https://lanyard-profile-readme.vercel.app/api/709236892687794216?hideTimestamp=false&idleMessage=smh" align="right" />
 </a>
+
+
+
+**Socials
+
+[YouTube](https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw)
+[Discord](https://discord.com/users/709236892687794216)
+[Twitch](https://www.twitch.tv/naymmmyt)
