@@ -9,8 +9,8 @@ I'm just a typical person and **dumb at debugging.**
 
 # My Socials 📎
 
-[YouTube]https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw
-[Twitter]https://twitter.com/Naymmm_
+[YouTube](https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw)
+[Twitter](https://twitter.com/Naymmm_)
 
 # Coding Languages I use 💻
 
