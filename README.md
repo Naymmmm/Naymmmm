@@ -16,6 +16,10 @@ I'm just a typical person and **dumb at debugging.**
 
 **C# Node.JS VBS**
 
+#Operating System
+
+**Windows 11 (Main) Windows 7 (VM) Windows 2000 (VM) Windows 8.1 (Secondary) MS-DOS (VM) Windows XP (VM)** I have tried Windows 95 but it didn't work.
+
 # Goodbye! 👋
 
 **Finally you stopped stalking me! Have a nice day. Goodbye** 😁
