@@ -24,4 +24,4 @@ I'm just a typical person and **dumb at debugging.**
 
 **Finally you stopped stalking me! Have a nice day. Goodbye** 😁
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:709236892687794216)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:id709236892687794216)
