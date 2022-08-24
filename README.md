@@ -25,3 +25,6 @@ I'm just a typical person and **dumb at debugging.**
 **Finally you stopped stalking me! Have a nice day. Goodbye** 😁
 
 ![Discord](https://lanyard-profile-readme.vercel.app/api/709236892687794216?hideTimestamp=false&idleMessage=get+a+life+noob&hideDiscrim=true)
+
+# Random video from me📽️
+<iframe width="1268" height="713" src="https://www.youtube.com/embed/xBlRbkjECY4" title="naymmm reacts to cringe roblox tiktoks (read desc)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
