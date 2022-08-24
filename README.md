@@ -27,4 +27,4 @@ I'm just a typical person and **dumb at debugging.**
 ![Discord](https://lanyard-profile-readme.vercel.app/api/709236892687794216?hideTimestamp=false&idleMessage=get+a+life+noob&hideDiscrim=true)
 
 # Random video from me📽️
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xBlRbkjECY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/xBlRbkjECY4
