@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+Do+stuff.+😔;I+am+a+epic+gamer.;)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ayo+guys!+Welcome+to+my+profile.+Please+stop+stalking+me.;)](https://git.io/typing-svg)Ayo guys! Welcome to my profile. Please stop stalking me 💨
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ayo+guys!+Welcome+to+my+profile.+Please+stop+stalking+me.;)](https://git.io/typing-svg)
 Heya! I'm Naymmm **~~now I know your stalking me~~**
 
 I'm just a typical person and **dumb at debugging.**
