@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Naymmm!+👋;I+Like+Cheese+Balls;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Naymmm!+👋;I+Like+Cheese+Balls.;)](https://git.io/typing-svg)
 
-<img align="right" src="https://cdn.discordapp.com/attachments/894447387270070342/939500852387913728/Desktop_-_1.png" alt="banner">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+Do+stuff.+😔;I+am+a+epic+gamer.;)](https://git.io/typing-svg)
 
 # Ayo guys! Welcome to my profile. Please stop stalking me 💨
 Heya! I'm Naymmm **~~now I know your stalking me~~**
