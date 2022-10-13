@@ -1,4 +1,4 @@
-# Sup I'm Naymmm 💫
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <img align="right" src="https://cdn.discordapp.com/attachments/894447387270070342/939500852387913728/Desktop_-_1.png" alt="banner">
 
