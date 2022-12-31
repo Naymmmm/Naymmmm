@@ -31,4 +31,4 @@ https://youtu.be/xBlRbkjECY4
 
 # I have Subthreshold Insomnia
 # Google diagnosed me with Severe Depression.
-[![My Depression Playlight]<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/79pEBa2eljYjbnXQLPMbFd?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![My Depression Playlight](https://open.spotify.com/playlist/79pEBa2eljYjbnXQLPMbFd?si=9fac7d21134348ac)
