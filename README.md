@@ -29,6 +29,6 @@ I'm just a typical person and **dumb at debugging.**
 # Random video from me📽️
 https://youtu.be/xBlRbkjECY4
 
-# I have Subthreshold Insomnia
+# I have Subthreshold Insomnia. (or maybe not)
 # Google diagnosed me with Severe Depression.
 [![My Depression Playlist](https://open.spotify.com/playlist/79pEBa2eljYjbnXQLPMbFd?si=9fac7d21134348ac)
