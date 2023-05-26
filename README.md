@@ -1,34 +1,43 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Naymmm!+👋;I+Like+Cheese+Balls.;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=These+read+me's+get+annoying+right?;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+Do+stuff.+😔;I+am+a+epic+gamer.;)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ayo+guys!+Welcome+to+my+profile.+Please+stop+stalking+me.;)](https://git.io/typing-svg)
-Heya! I'm Naymmm **~~now I know your stalking me~~**
+![Logo](https://img.shields.io/badge/This%20is%20a%20readme.md-Very%20cool%20and%20annoying.-green)
 
-I'm just a typical person and **dumb at debugging.**
 
-# My Socials 📎
+# Hi, I'm Naymmm 👋
 
-[YouTube](https://www.youtube.com/channel/UCv_HJIRWLDK6Ys1qF2_w0zw)
-[Twitter](https://twitter.com/Naymmm_)
+**I do random stuff for a living.**
+## 🚀 About Me
+I'm a terrible developer, mostly forking other repos for no particular reason.
+I like messing around with A.I, making Roblox games, using Arch Linux in general
+and tech tinkering.
 
-# Coding Languages I use 💻
 
-**C# Node.JS VBS**
+## 🛠 Skills
+I basically have no skills, well.
+HTML, Batch, C#, Node.JS, Vbs, etc.
 
-#Operating System
 
-**Windows 11 (Main) Windows 7 (VM) Windows 2000 (VM) Windows 8.1 (Secondary) MS-DOS (VM) Windows XP (VM)** I have tried Windows 95 but it didn't work.
+## 💻 My Setup
 
-# Goodbye! 👋
+[**Click this goofy link.**](https://pcpartpicker.com/user/arx_15m/builds/#view=CMXbt6)
+## 📋 Other Stuff
+👩‍💻 I'm currently working on **my mental health.**
 
-**Finally you stopped stalking me! Have a nice day. Goodbye** 😁
+🧠 I'm currently learning [**Go.**](https://naymmm-secret-files.discowd.com/cat.mp4)
 
-![Discord](https://lanyard-profile-readme.vercel.app/api/709236892687794216?hideTimestamp=false&idleMessage=get+a+life+noob&hideDiscrim=true)
+🤔 I'm looking for help with **nothing.**
 
-# Random video from me📽️
-https://youtu.be/xBlRbkjECY4
+💬 **DON'T** ask me about **Air Fryer aseuxal reproduction**
 
-# I have Subthreshold Insomnia. (or maybe not)
-# Google diagnosed me with Severe Depression.
-[![My Depression Playlist](https://open.spotify.com/playlist/79pEBa2eljYjbnXQLPMbFd?si=9fac7d21134348ac)
+📫 How to reach me : Mail [**naymmm@murder.academy**](mailto:naymmm@murder.academy)
+
+😄 Pronouns: **Air, Fryer,** get that right.
+
+⚡️ Fun fact, **heres a fun fact about why fun facts are annoying,**
+
+
+## 🔗 Links
+***Man, what is a link?***
+![Twitter](https://img.shields.io/twitter/follow/Naymmm_?style=social)
+
