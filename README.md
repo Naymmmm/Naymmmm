@@ -39,5 +39,5 @@ HTML, Batch, C#, Node.JS, Vbs, etc.
 
 ## 🔗 Links
 ***Man, what is a link?***
-![Twitter](https://img.shields.io/twitter/follow/Naymmm_?style=social)
+![Twitter](https://img.shields.io/twitter/follow/Naymmm_?style=social)(https://twitter.com/intent/follow?screen_name=Naymmm_)
 
