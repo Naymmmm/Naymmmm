@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=These+read+me's+get+annoying+right?;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Windows+10/11+is+spyware!;)](https://git.io/typing-svg)
 
 
 ![Logo](https://img.shields.io/badge/This%20is%20a%20readme.md-Very%20cool%20and%20annoying.-green)
