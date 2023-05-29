@@ -8,7 +8,7 @@
 
 **I do random stuff for a living.**
 ## 🚀 About Me
-I'm **NOT** an anime sys admin, mostly forking other repos for no particular reason.
+Founder of **Tactically Studio**. I'm **NOT** an anime sys admin, mostly forking other repos for no particular reason.
 I like messing around with A.I, making Roblox games, using Arch Linux in general
 and tech tinkering.
 
