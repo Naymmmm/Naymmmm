@@ -1,43 +1,51 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Windows+10/11+is+spyware!;)](https://git.io/typing-svg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>naymmmiscool = true</title>
+    <style>
+        /* Styling for the introduction section */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Use Segoe UI font */
+            background: linear-gradient(90deg, #682cbf, #2075ff); /* Purple-blue gradient background (left to right) */
+            color: #fff; /* Text color */
+            transition: background 0.5s ease; /* Smooth background color transition */
+            scroll-behavior: smooth; /* Smooth scrolling transition */
+        }
 
+        .intro-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
 
-![Logo](https://img.shields.io/badge/This%20is%20a%20readme.md-Very%20cool%20and%20annoying.-green)
+        /* Styling for the typing SVG */
+        .typing-svg {
+            width: 100%; /* Adjust the width to fill the container */
+            max-width: 435px; /* Set a maximum width as needed */
+            height: auto;
+        }
 
+        /* Styling for the main content section */
+        .main-content {
+            padding: 50px;
+            margin-top: 300vh; /* Increase the margin-top for longer scrolling */
+        }
+    </style>
+</head>
+<body>
+    <div class="intro-section">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&repeat=false&width=435&lines=hello+%F0%9F%91%8B" alt="Typing SVG" class="typing-svg">
+    </div>
 
-# Hi, I'm Naymmm 👋
-
-**I do random stuff for a living.**
-## 🚀 About Me
-Founder of **Tactically Studio**. I'm **NOT** an anime sys admin, mostly forking other repos for no particular reason.
-I like messing around with A.I, making Roblox games, using Arch Linux in general
-and tech tinkering.
-
-
-## 🛠 Skills
-I basically have no skills, well.
-HTML, Batch, C#, Node.JS, Vbs, etc.
-
-
-## 💻 My Setup
-
-[**Click this goofy link.**](https://pcpartpicker.com/user/arx_15m/builds/#view=CMXbt6)
-## 📋 Other Stuff
-👩‍💻 I'm currently working on **my mental health.**
-
-🧠 I'm currently learning [**Go.**](https://naymmm-secret-files.discowd.com/cat.mp4)
-
-🤔 I'm looking for help with **nothing.**
-
-💬 **DON'T** ask me about **Air Fryer aseuxal reproduction**
-
-📫 How to reach me : Mail [**naymmm@murder.academy**](mailto:naymmm@murder.academy)
-
-😄 Pronouns: **Air, Fryer,** get that right.
-
-⚡️ Fun fact, **heres a fun fact about why fun facts are annoying,**
-
-
-## 🔗 Links
-***Man, what is a link?***
-![Twitter](https://img.shields.io/twitter/follow/Naymmm_?style=social)
-
+    <div class="main-content" id="content">
+        <!-- Add your content about yourself here -->
+        <h>About Me</h2>
+        <h2>yo, i'm naymmm, avid substance painter + sub stager nerd, gfx artist, 3d modeller, professional larper </h2>
+    </div>
+</body>
+</html>
