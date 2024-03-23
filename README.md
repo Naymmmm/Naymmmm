@@ -19,7 +19,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 💻 My Setup
-
-[**Click this goofy link.**](https://pcpartpicker.com/user/arx_15m/builds/#view=CMXbt6)
-
