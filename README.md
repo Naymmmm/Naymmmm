@@ -1,7 +1,5 @@
+![image](https://media1.tenor.com/m/lVIuYsJXHzEAAAAd/spongebob-dancing.gif)
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi+im+naymmm;)](https://git.io/typing-svg)
-
-
-![Logo](https://img.shields.io/badge/This%20is%20a%20readme.md-Very%20cool%20and%20annoying.-green)
 
 
 # Hi, I'm Naymmm 👋
@@ -35,5 +33,6 @@ HTML, Batch, C#, Node.JS, Vbs, etc. (now go!)
 
 ## 🔗 Links
 ***Man, what is a link?***
+<br>
 ![Twitter](https://img.shields.io/twitter/follow/Naymmm_?style=social)
 
