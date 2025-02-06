@@ -1,1 +1,1 @@
-![banner](./sigma.png)
+![banner](./new.png)
