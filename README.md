@@ -1,19 +1,22 @@
-<div align="center" id="toc">
-<p>
-	<img align="right" src="https://media1.tenor.com/m/92MplgQwb80AAAAC/cat-meme-wave-emoji.gif" width="256" alt="the-icon"/>
-</p>
-<div align="left">
-<ul style={{ listStyle: none }}>
-  <summary>
-<h1>Hello!</h1>
-  </summary>
-  </ul>
+# Hello!
+
 </div>
 </div>
-I'm Naymmm, Naymmmm, darwinkernelpanic, darwin or whatever you want to call me. <br>I like programming (in simple languages, I personally despise low-level stuff) Luau.<br><br>
-I enjoy cats, and like making games in my free time. I'm also into AI (training, personally not a big fan of image generation) and gaming.<br><br>
-Feel free to contact be at the following links below:<br>
-<a href="mailto:me@naymmm.lol">email - me@naymmm.lol</a><br>
-<a href="https://discord.com/users/darwinkernelpanic">discord - darwinkernelpanic</a><br>
-<a href="mailto:darwin@shellworks.dev">email - darwin@shellworks.dev</a><br>
-<a href="https://shellworks.dev/contact">shellworks.dev/contact</a><br>
+
+I'm Naymmm, Naymmmm, darwinkernelpanic, darwin or whatever you want to call me.  
+I like programming (in simple languages, I personally despise low-level stuff) Luau.  
+
+I enjoy cats, and like making games in my free time. I'm also into AI (training, personally not a big fan of image generation) and gaming.  
+
+Feel free to contact me at the following links below:  
+[email - me@naymmm.lol](mailto:me@naymmm.lol)  
+[discord - darwinkernelpanic](https://discord.com/users/darwinkernelpanic)  
+[email - darwin@shellworks.dev](mailto:darwin@shellworks.dev)  
+[shellworks.dev/contact](https://shellworks.dev/contact)  
+
+## Projects
+
+[Agent Efficient Token Language](https://github.com/Naymmmm/aetl) - A token language for agents to efficiently save space with tokens  
+[Delegant](https://github.com/Naymmmm/delegant) - An application to have computer-use agents interface with your computer  
+[Copal](https://github.com/Naymmmm/copal) - Direct agents with a "Ralph Wiggum" loop and agent swarm(s)  
+
